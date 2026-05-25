@@ -1,4 +1,4 @@
-https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile
+![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile)
 
 # 👋 Hi, I'm Pariente Bellido
 
@@ -10,8 +10,8 @@ https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile
 ---
 
 ## 🛠️ Tools & Technologies
-https://img.shields.io/badge/-GitHub-black?logo=github
-https://img.shields.io/badge/-Markdown-blue?logo=markdown
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-blue?logo=markdown)
 
 ---
 
@@ -21,7 +21,7 @@ https://img.shields.io/badge/-Markdown-blue?logo=markdown
 ---
 
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=pbellido&show_icons=true&theme=dark
+![Stats](https://github-readme-stats.vercel.app/api?username=pbellido&show_icons=true&theme=dark)
 
 ---
 
