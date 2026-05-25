@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Pariente%20Bellido&fontSize=30)
 
 # 👋 Hi, I'm Pariente Bellido
 
@@ -21,7 +21,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=pbellido&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=pbellido&show_icons=true&theme=tokyonight)
 
 ---
 
