@@ -1,11 +1,9 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Pariente%20Bellido&fontSize=30)
-
 # 👋 Hi, I'm Pariente Bellido
 
 ## 🚀 About Me
-💻 Passionate about programming  
-🌱 Learning GitHub & Markdown  
-🎯 Improving daily  
+💻 Passionate about programming and technology  
+🌱 Currently learning GitHub, Markdown  
+🎯 Improving my skills every day  
 
 ---
 
@@ -15,13 +13,18 @@
 
 ---
 
-## 📌 Projects
+## 📌 My Projects
 - 🔗 https://github.com/pbellido
 
 ---
 
+## 📫 Contact Me
+- 💼 GitHub: https://github.com/pbellido
+
+---
+
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=pbellido&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=pbellido&show_icons=true&theme=dark)
 
 ---
 
